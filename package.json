@@ -1,0 +1,29 @@
+{
+  "name": "fetchspreadsheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danbilokha/fetch-excel-sheet-data.git"
+  },
+  "keywords": [
+    "spreadsheet;",
+    "fetch",
+    "excel",
+    "data;",
+    "fetch",
+    "google",
+    "spreadsheet",
+    "information"
+  ],
+  "author": "Danylo Bilokha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danbilokha/fetch-excel-sheet-data/issues"
+  },
+  "homepage": "https://github.com/danbilokha/fetch-excel-sheet-data#readme"
+}
