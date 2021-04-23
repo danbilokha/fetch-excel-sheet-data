@@ -1,0 +1,24 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to right, #ffafbd, #ffc3a0);
+    font-family: 'Courier New', monospace;
+}
+
+#content {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+h1, h2 {
+    font-size: 4rem;
+    margin-top: 3rem;
+}
+
+.text {
+  margin-left: 2rem;
+  font-size: 2rem;
+}
